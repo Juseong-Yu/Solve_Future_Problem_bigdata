@@ -5,7 +5,7 @@
 - **팀원 :** 홍순채(팀장), 유주성(팀원)
 
 ## 👨‍👨‍👧‍👧 Team List
-|김동윤|유주성|
+|홍순채|유주성|
 | :---: | :---: | 
 |팀장|팀원|
 |<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/ae2fc7a9-edc0-4090-9c3f-006ff8871410 width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/999395aa-fc32-468a-80ee-f3fc0467f6a5 width=150px>|
