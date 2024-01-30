@@ -15,6 +15,6 @@
 
 ### 사용 프로그램
 |엑셀|미리 캔버스|R|
-| :---: | :---: | :---: | :---: | 
+| :---: | :---: | :---: |
 |<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/555a5617-412e-4549-965f-c5559e82c06d width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/43910ff8-c960-4fa8-a577-1d6cde29f96f width=150px>|
 
