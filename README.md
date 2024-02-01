@@ -19,5 +19,5 @@
 |<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/555a5617-412e-4549-965f-c5559e82c06d width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/43910ff8-c960-4fa8-a577-1d6cde29f96f width=150px>|<img src=https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/assets/114473861/3d2f0a7a-8698-4662-92e9-8f3b758a0398 width=150px>
 
 
-
-
+### 발표 자료
+[지역별 불균형에 따른 지방 소멸화 대책 방안의 효과성 검토’.pdf](https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/files/14121055/default.pdf)
