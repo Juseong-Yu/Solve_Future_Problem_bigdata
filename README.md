@@ -20,4 +20,4 @@
 
 
 ### 발표 자료
-[지역별 불균형에 따른 지방 소멸화 대책 방안의 효과성 검토’.pdf](https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/files/14121055/default.pdf)
+[지역별 불균형에 따른 지방 소멸화 대책 방안의 효과성 검토.pdf](https://github.com/Juseong-Yu/Solve_Future_Problem_bigdata/files/14121055/default.pdf)
